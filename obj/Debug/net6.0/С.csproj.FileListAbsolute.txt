@@ -1,0 +1,15 @@
+/Users/denisklevtsov/Desktop/С/bin/Debug/net6.0/С
+/Users/denisklevtsov/Desktop/С/bin/Debug/net6.0/С.deps.json
+/Users/denisklevtsov/Desktop/С/bin/Debug/net6.0/С.runtimeconfig.json
+/Users/denisklevtsov/Desktop/С/bin/Debug/net6.0/С.dll
+/Users/denisklevtsov/Desktop/С/bin/Debug/net6.0/С.pdb
+/Users/denisklevtsov/Desktop/С/obj/Debug/net6.0/С.csproj.AssemblyReference.cache
+/Users/denisklevtsov/Desktop/С/obj/Debug/net6.0/С.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisklevtsov/Desktop/С/obj/Debug/net6.0/С.AssemblyInfoInputs.cache
+/Users/denisklevtsov/Desktop/С/obj/Debug/net6.0/С.AssemblyInfo.cs
+/Users/denisklevtsov/Desktop/С/obj/Debug/net6.0/С.csproj.CoreCompileInputs.cache
+/Users/denisklevtsov/Desktop/С/obj/Debug/net6.0/С.dll
+/Users/denisklevtsov/Desktop/С/obj/Debug/net6.0/refint/С.dll
+/Users/denisklevtsov/Desktop/С/obj/Debug/net6.0/С.pdb
+/Users/denisklevtsov/Desktop/С/obj/Debug/net6.0/С.genruntimeconfig.cache
+/Users/denisklevtsov/Desktop/С/obj/Debug/net6.0/ref/С.dll
